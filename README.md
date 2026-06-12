@@ -177,9 +177,9 @@ Por lo tanto, la selección de métricas debe estar alineada con los objetivos y
 
 | Modelo | Accuracy | Precision | Recall | F1 Score |
 |----------|----------:|----------:|----------:|----------:|
-| VADER | 0.8507 | 0.8630 | 0.9680 | 0.9125 |
-| TextBlob | 0.8419 | 0.8524 | 0.9716 | 0.9081 |
-| Logistic Regression | 0.8929 | 0.8889 | 0.9905 | 0.9370 |
+| VADER | 0.850703 | 0.862987 | 0.967953 | 0.912461 |
+| TextBlob | 0.841920 | 0.852396 | 0.971595 | 0.908101 |
+| Logistic Regression | 0.892857 | 0.888889 | 0.990532 | 0.936962 |
 
 ### Resumen de Resultados
 
